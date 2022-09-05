@@ -1,2 +1,3 @@
 #!/bin/bash
-cat [[:apha:]]* /etc/ssh/sshd_config
+tr -cs '[:alnum:]' '[\n*]' </etc/ssh/sshd_config | grep -E '^[[:alpha:]]+$'
+
