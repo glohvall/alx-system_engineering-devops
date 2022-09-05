@@ -1,0 +1,17 @@
+total 56
+-rw-r--r-- 1 glohvall glohvall   55 Sep  5 15:43 #7-file#
+drwxr-xr-x 2 glohvall glohvall 4096 Sep  5 16:04 .
+lrwxrwxrwx 1 glohvall glohvall   28 Sep  5 15:28 .#7-file -> glohvall@DESKTOP-EATOH56.306
+drwxr-xr-x 6 glohvall glohvall 4096 Sep  5 10:32 ..
+-rwxr--r-- 1 glohvall glohvall   33 Sep  5 11:21 0-hello_world
+-rwxr--r-- 1 glohvall glohvall   35 Sep  5 11:28 1-confused_smiley
+-rwxr--r-- 1 glohvall glohvall   37 Sep  5 11:28 1-confused_smiley~
+-rwxr--r-- 1 glohvall glohvall   28 Sep  5 11:32 2-hellofile
+-rwxr--r-- 1 glohvall glohvall   39 Sep  5 11:48 3-twofiles
+-rwxr--r-- 1 glohvall glohvall   29 Sep  5 12:07 4-lastlines
+-rwxr--r-- 1 glohvall glohvall   29 Sep  5 12:10 5-firstlines
+-rwxr--r-- 1 glohvall glohvall   40 Sep  5 12:48 6-third_line
+-rw-r--r-- 1 glohvall glohvall   22 Sep  5 12:43 6-third_line~
+-rwxr--r-- 1 glohvall glohvall   36 Sep  5 16:03 8-cwd_state
+-rw-r--r-- 1 glohvall glohvall   19 Sep  5 10:47 README.md
+-rw-r--r-- 1 glohvall glohvall    0 Sep  5 16:04 ls_cwd_content
