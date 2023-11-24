@@ -3,7 +3,7 @@
 #   sleep 2 in between each iteration.
 #   Displays "I am invincible!!!" in between each iteration.
 val=1
-while [ $vall -eq 1 ]
+while [ $val -eq 1 ]
 do
   echo "To infinity and beyond"
   sleep 2
