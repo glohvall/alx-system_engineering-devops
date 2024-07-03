@@ -1,3 +1,4 @@
+#!/bin/bash
 #0-create_a_file.pp
 
 file {'/tmp/school':
@@ -7,3 +8,4 @@ mode    => '0744',
 owner   => 'www-data',
 group   => 'www-data',
 }
+
